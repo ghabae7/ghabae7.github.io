@@ -1,7 +1,7 @@
 # Grace Bae
-20306 37th Ave W Lynnwood WA 98036
-ghabae27@gmail.com
-425 248 8302
+- 20306 37th Ave W Lynnwood WA 98036
+- ghabae27@gmail.com
+- 425 248 8302
 
 ## About Me
 
