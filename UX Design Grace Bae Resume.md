@@ -1,10 +1,13 @@
-## Welcome to GitHub Pages
+# Grace Bae
+20306 37th Ave W Lynnwood WA 98036
+ghabae27@gmail.com
+425 248 8302
 
-You can use the [editor on GitHub](https://github.com/ghabae7/ghabae7.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## About Me
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+
+### Experiences
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
